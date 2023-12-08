@@ -11,7 +11,7 @@ spec:
       job:
         spec:
           template:
-            spec:
+            spec:tttt
               containers:
               - name: sleep
                 image: alpine:3.8
