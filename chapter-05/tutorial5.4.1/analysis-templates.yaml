@@ -12,7 +12,7 @@ spec:
         spec:
           template:
             spec:
-              containers:eeee
+              containers:
               - name: sleep
                 image: alpine:3.8
                 command: [sh, -c]
