@@ -4,7 +4,7 @@ metadata:
   name: pass
 spec:
   metrics:
-  - name: pass
+  - name: passqqq
     interval: 15s
     failureLimit: 1
     provider:
