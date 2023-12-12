@@ -6,7 +6,7 @@ spec:
   metrics:
   - name: pass
     interval: 15s
-    failureLimit: 111111
+    failureLimit: 1
     provider:
       job:
         spec:
