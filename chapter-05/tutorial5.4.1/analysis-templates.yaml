@@ -7,7 +7,7 @@ spec:
   - name: pass
     interval: 15s
     failureLimit: 1
-    provider:
+    provider:11
       job:
         spec:
           template:
